@@ -1,5 +1,8 @@
 # JumpQuest
 
+<img width="1134" height="817" alt="image" src="https://github.com/user-attachments/assets/921e612c-6da6-4ee4-a0e4-8a029b1b5f51" />
+
+
 ## Overview
 
 JumpQuest is a 2D jump 'n' run game developed using JavaScript and HTML Canvas. Players take on the role of a little astronaut stranded on a hostile planet. The mission is to navigate through challenging levels filled with obstacles, platforms, and enemies to reach the end of each level and advance to the next.
