@@ -29,7 +29,8 @@ Players must guide the astronaut through various levels, aiming to reach the bas
 ## Installation and Setup
 
 1. Clone this repository to your local machine.
-2. Open `index.html` in a web browser to start the game.
+2. Install the **Live Server** extension in VScode
+3. Open `index.html` in a web browser with **Live Server** to start the game.
 
 ## Controls
 
@@ -41,14 +42,5 @@ Players must guide the astronaut through various levels, aiming to reach the bas
 - Walk and jump to navigate through levels.
 - Avoid enemies with precise timing.
 - Reach the end of each level to proceed.
-
-## Contribution
-
-Feel free to submit bug reports or suggest features.
-
-## Resources
-
-- **Presentation**: [Project Presentation](Presentation.ppt)
-- **Documentation**: [Project Report](FinalReport.pdf)
 
 Thank you for your interest in our project!
